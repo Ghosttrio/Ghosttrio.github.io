@@ -1,8 +1,8 @@
 ---
-title: N+1 문제 해결하기!
+title: N 플러스 1 문제 해결하기!
 date: 2024-05-08 18:00:00 +0800
 categories: [JPA]
-tags: [N+1]
+# tags: []
 ---
 
 # 배경
